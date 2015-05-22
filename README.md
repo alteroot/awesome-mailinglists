@@ -76,6 +76,12 @@ http://www.pycoders.com/
 
 Past issues: [Archive](http://www.pycoders.com/archive/)
 
+## ImportPython newsletter
+
+http://importpython.com/newsletter/
+
+past issues: [Archive](http://importpython.com/newsletter/archive/) 
+
 ## Ruby Weekly
 
 http://rubyweekly.com/
