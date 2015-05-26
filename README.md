@@ -15,12 +15,6 @@ https://sysadmincasts.com/
 
 Past issues: [Archive](https://sysadmincasts.com/episodes/)
 
-## Servers for hackers newsletter
-
-https://serversforhackers.com/
-
-Past issues: [Archive](https://serversforhackers.com/editions)
-
 ## Docker Weekly newsletter
 
 http://www.docker.com/subscribe_newsletter/
@@ -80,7 +74,7 @@ Past issues: [Archive](http://www.pycoders.com/archive/)
 
 http://importpython.com/newsletter/
 
-past issues: [Archive](http://importpython.com/newsletter/archive/) 
+past issues: [Archive](http://importpython.com/newsletter/archive/)
 
 ## Ruby Weekly
 
