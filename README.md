@@ -1,4 +1,10 @@
 # DevOps
+## Cron.Weekly newsletter
+
+http://www.cronweekly.com/
+
+Past issues: [Archive](http://www.cronweekly.com/archives/)
+
 ## DevOps Weekly newsletter
 
 http://www.devopsweekly.com/
