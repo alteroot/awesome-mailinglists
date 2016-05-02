@@ -15,6 +15,12 @@ Past issues: [Archive](http://www.devopsweekly.com/archive)
 
 http://sreweekly.com/
 
+## The Changelog Weekly newsletter
+
+https://changelog.com/
+
+Past issues: [Archive](https://changelog.com/changelog/)
+
 ## DevOps newsletter by ServerDensity
 
 https://blog.serverdensity.com/devops-newsletter/
