@@ -11,6 +11,10 @@ http://www.devopsweekly.com/
 
 Past issues: [Archive](http://www.devopsweekly.com/archive)
 
+## SRE Weekly newsletter
+
+http://sreweekly.com/
+
 ## DevOps newsletter by ServerDensity
 
 https://blog.serverdensity.com/devops-newsletter/
