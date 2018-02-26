@@ -43,6 +43,12 @@ http://kubeweekly.com/
 
 Past issues: [Archive](http://kubeweekly.com/)
 
+## kubelist Weekly newsletter
+
+https://kubelist.com/
+
+Past Issues: [Archive](https://kubelist.com/issues)
+
 ## UsingChef Weekly newsletter
 
 https://usingchef.com/
