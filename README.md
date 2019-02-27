@@ -11,6 +11,12 @@ http://www.devopsweekly.com/
 
 Past issues: [Archive](http://www.devopsweekly.com/archive)
 
+## Security newsletter
+
+https://securitynewsletter.co/
+
+Past issues: [Archive](https://securitynewsletter.co/archive)
+
 ## SRE Weekly newsletter
 
 http://sreweekly.com/
